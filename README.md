@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hqr5501ehot8rko3?svg=true)](https://ci.appveyor.com/project/sergey-ssf/aqa-patterns)
+[![Build status](https://ci.appveyor.com/api/projects/status/9hvdnhxup5f0bn1a/branch/main?svg=true)](https://ci.appveyor.com/project/sergey-ssf/aqa-testmode/branch/main)
+
 
 # Домашнее задание к занятию «2.3. Patterns»
 
